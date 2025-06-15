@@ -16,7 +16,6 @@ cmd.sh
 *.p
 *.pickle
 *.pyc
-*.txt
 
 *.py[cod]
 *$py.class
